@@ -1,6 +1,7 @@
 .title_img {
     margin: 0px;
     width: 100vh
+    object-fit: cover;
     position: sticky;
     top: 0px;
 }
