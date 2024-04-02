@@ -1,6 +1,8 @@
-.title {
-    margin: 0px;
-    width: 100vh
-    object-fit: cover;
+.image-wrapper {
     position: sticky;
+    width: 100%;
+}
+>image {
+    max-width: 100%;
+    height: auto;
 }
